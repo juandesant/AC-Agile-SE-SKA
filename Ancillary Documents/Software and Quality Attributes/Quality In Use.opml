@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar/>
+      <column name="text" width="522"/>
+    </editor> -->
+    <title>QualityInUse</title>
+    <dateCreated>Fri, 23 Feb 2018 16:08:17 GMT</dateCreated>
+    <expansionState>0,3,8,12</expansionState>
+    <vertScrollState>0</vertScrollState>
+    <windowTop>308</windowTop>
+    <windowLeft>408</windowLeft>
+    <windowRight>951</windowRight>
+    <windowBottom>730</windowBottom>
+  </head>
+  <body>
+      <outline text="Effectiveness"/>
+      <outline text="Efficiency"/>
+      <outline text="Satisfaction">
+        <outline text="Usefulness"/>
+        <outline text="Trust"/>
+        <outline text="Pleasure"/>
+        <outline text="Comfort"/>
+      </outline>
+      <outline text="Freedom from Risk">
+        <outline text="Economic Risk"/>
+        <outline text="Health &amp; Safety Risk"/>
+        <outline text="Environmental Risk"/>
+      </outline>
+      <outline text="Context Coverage">
+        <outline text="Context Completeness"/>
+        <outline text="Flexibility"/>
+      </outline>
+  </body>
+</opml>

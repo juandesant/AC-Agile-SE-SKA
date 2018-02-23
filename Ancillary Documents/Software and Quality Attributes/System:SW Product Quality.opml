@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar/>
+      <column name="text" width="522"/>
+    </editor> -->
+    <title>ProductQuality</title>
+    <dateCreated>Fri, 23 Feb 2018 16:08:29 GMT</dateCreated>
+    <expansionState>0,1,5,9,12,19,24,30,36</expansionState>
+    <vertScrollState>0</vertScrollState>
+    <windowTop>288</windowTop>
+    <windowLeft>428</windowLeft>
+    <windowRight>971</windowRight>
+    <windowBottom>710</windowBottom>
+  </head>
+  <body>
+      <outline text="Functional Suitability">
+        <outline text="Functional Completeness"/>
+        <outline text="Functional Correctness"/>
+        <outline text="Functional Appropriateness"/>
+      </outline>
+      <outline text="Performance">
+        <outline text="Time Behaviour"/>
+        <outline text="Resource Utilization"/>
+        <outline text="Capacity"/>
+      </outline>
+      <outline text="Compatibility">
+        <outline text="Co-existence"/>
+        <outline text="interoperability"/>
+      </outline>
+      <outline text="Usability">
+        <outline text="Appropriateness recognisability"/>
+        <outline text="Learnability"/>
+        <outline text="Operability"/>
+        <outline text="Error Protection"/>
+        <outline text="Aesthetics"/>
+        <outline text="Accessibility"/>
+      </outline>
+      <outline text="Reliability">
+        <outline text="Maturity"/>
+        <outline text="Availability"/>
+        <outline text="Fault Tolerance"/>
+        <outline text="Recoverability"/>
+      </outline>
+      <outline text="Security">
+        <outline text="Confidentiality"/>
+        <outline text="Integrity"/>
+        <outline text="Non-repudiation"/>
+        <outline text="Accountability"/>
+        <outline text="Authenticity"/>
+      </outline>
+      <outline text="Maintainability">
+        <outline text="Modularity"/>
+        <outline text="Reusability"/>
+        <outline text="Analysability"/>
+        <outline text="Modifiability"/>
+        <outline text="Testability"/>
+      </outline>
+      <outline text="Portability">
+        <outline text="Adaptability"/>
+        <outline text="Installability"/>
+        <outline text="Replicability"/>
+      </outline>
+  </body>
+</opml>
